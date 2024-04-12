@@ -10,3 +10,7 @@ Checklist app, 1st iteration.
 ### EDITORS
 - OSS Code
 - ANDROID Studio
+
+## PROGRESS
+git desktop
+fix local files
