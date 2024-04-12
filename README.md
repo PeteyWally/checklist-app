@@ -1,12 +1,12 @@
 # checklist-app
 Checklist app, 1st iteration.
 
-LANGUAGES
+### LANGUAGES
 - DART
 
-SoftWare Kits
+### SoftWare Kits
 - flutter
 
-EDITORS
+### EDITORS
 - OSS Code
 - ANDROID Studio
